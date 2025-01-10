@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Vineeth!
 
-<!--
-**vineethkrishnanv94/vineethkrishnanv94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate mobile app developer specializing in iOS with over 8 years of experience.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python Flask**.
+- 🔭 Working on my app **WriteFlix** for writers and filmmakers.
+- 💬 Ask me about **Swift**, **SwiftUI**,**Objective-c** or **Flutter**.
+- 📫 Reach me: [Email](mailto:vineethkrishnanv94@gmail.com), [LinkedIn]([https://linkedin.com/in/vineeth](https://www.linkedin.com/in/vineeth-krishnan-vijayan-11703610b/)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skills
+- iOS Development (Swift, SwiftUI, UIKit)
+- Android Development (Jetpack Compose)
+
+
